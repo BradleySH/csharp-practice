@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp
+build_property.RootNamespace = BlazorApp
+build_property.ProjectDir = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/
+build_property.RazorLangVersion = 5.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = App.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/App.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages/Counter.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/Counter.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages/FetchData.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/FetchData.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages/Index.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/Index.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages/Todo.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/Todo.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared/SurveyPrompt.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Shared/SurveyPrompt.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = _Imports.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/_Imports.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared/MainLayout.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Shared/MainLayout.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared/NavMenu.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Shared/NavMenu.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages/Error.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/Error.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages/_Host.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/bradleyhorlander/dev-folder/csharpPractice/BlazorApp/obj/Debug/net6.0/Razor/Pages/_Host.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope =
